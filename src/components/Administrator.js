@@ -145,6 +145,12 @@ const Administrator = () => {
               iconPos="right"
               className="p-button-success p-button-raised p-button-rounded"
             />
+            <Button
+              label="Reject"
+              icon="pi pi-times"
+              iconPos="right"
+              className="p-button-danger p-button-raised p-button-rounded"
+            />
           </div>
         </AccordionTab>
       </Accordion>        
